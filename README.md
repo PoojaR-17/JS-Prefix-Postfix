@@ -27,7 +27,7 @@ This repository does not currently contain code. However, it serves as a foundat
 
 If you'd like to practice, feel free to:
 
-Clone this repository
+Clone this repository https://github.com/PoojaR-17/JS-Prefix-Postfix
 and add your own code files with the examples discussed here.
 Experiment with different operator combinations and note the outputs to reinforce your learning.
 Add your own comments and explanations as you explore the concepts.
