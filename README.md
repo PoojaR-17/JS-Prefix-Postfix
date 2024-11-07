@@ -3,6 +3,7 @@ In JavaScript, prefix and postfix operators are used to increment (++) or decrem
 Mastering Prefix and Postfix Operators in JavaScript
 Introduction
 Welcome to Mastering Prefix and Postfix Operators in JavaScript! This repository is designed as a resource to help developers understand the subtle differences between prefix (++a, --a) and postfix (a++, a--) operators in JavaScript. These operators are commonly tested in technical interviews, where understanding the fine details of their behavior is crucial.
+![summary](https://github.com/PoojaR-17/JS-Prefix-Postfix/blob/main/prefix%26postfix.png)
 
 In this guide, you’ll find explanations and detailed walk-throughs of challenging examples that showcase how increment and decrement operators work in real-world coding scenarios. These examples also highlight key concepts such as operator precedence and order of evaluation—important for both beginners and advanced JavaScript developers.
 
